@@ -1,0 +1,37 @@
+#avicenna{
+  
+}
+#imgProduct{
+  height: 50px;
+}
+.footer{
+  background-color: #000;
+  height: 5%%;
+  position:sticky;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.keterangan{
+padding-top: 15px;
+color: #ffffff;
+}
+#masuk{
+  margin-bottom: 10%;
+}
+.brand{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 150px;
+}
+#atas{
+  padding-top: 10px;
+}
+#tengah{
+  text-align: center;
+}
+#pintu{
+  width: 250px;
+  height: auto;
+  padding-top: 10%;
+}
